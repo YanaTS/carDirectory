@@ -1,0 +1,27 @@
+{
+      "cars":
+      [
+      {
+        "Year": 2004,
+        "Model": "Tiida",
+        "Make": "Nissan",
+        "Class": "Compact car",
+        "Type Coupe": "Hatchback"
+      },
+      {
+        "Year": 2018,
+        "Model": "Focus",
+        "Make": "Ford",
+        "Class": "Compact car",
+        "Type Coupe": "Hatchback"
+      },
+      {
+        "Year": 2015,
+        "Model": "4C",
+        "Make": "Alfa Romeo",
+        "Class": "Sports car",
+        "Type Coupe": "Cabriolet"
+      }
+      ]
+      
+}
